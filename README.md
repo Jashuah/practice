@@ -10,3 +10,4 @@ _My name is Zhassulan_
 
 <img src=“https://user-images.githubusercontent.com/124692720/219932913-6e23f62f-fd70-4d2f-8fa6-dba853a6ff67.jpg” width=“550” height=“350”>
 <img src="https://user-images.githubusercontent.com/125072577/219838007-20b6fc5a-8667-4e72-b4d2-b9cd0975807e.jpg" width="350" height="550">
+![image](![image](https://user-images.githubusercontent.com/124692720/219933357-2f1e3441-af9f-428f-ae5b-d67b7b8de5cd.png)
