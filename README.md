@@ -10,7 +10,7 @@ _Welcome_
 ![image lol](https://user-images.githubusercontent.com/124692720/219933674-a76c3dc9-4891-4bf3-8403-b96e9557bcbe.png)
 ![image lol](https://user-images.githubusercontent.com/124692720/219933674-a76c3dc9-4891-4bf3-8403-b96e9557bcbe.png)
 >I am the king
-*tiger
-*lion
-*bitch
+* tiger
+* lion
+* bitch
 please find the extra one
