@@ -1,6 +1,6 @@
 # practice
 _My name is Zhassulan_
-<p align="left">Put Text Here</p>
+<p align="right">All right</p>
 **My name is Zhassulan**
 ####Practice####
 >for block quotes
